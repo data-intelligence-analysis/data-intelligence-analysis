@@ -8,8 +8,8 @@ I'm a Software/Data Engineer with a passion for building digital experiences.
 - 👥 Social Media Agency
 
 ## 🌱 Current Learning Paths
-- GCP Developer/Engineering
-- Azure Developer/Engineering 
+- GCP Developer/Engineering Certifications
+- Azure Developer/Engineering Certifications
 - Salesforce
 
 

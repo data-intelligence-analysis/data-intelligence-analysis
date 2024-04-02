@@ -4,7 +4,7 @@ I'm a Software/Data Engineer with a passion for building digital experiences.
 
 ## 🔭 Current Projects I am working on
 - 🧑🏾‍💻 [Web3 Platform](https://linktr.ee/metateds)
-- 💳 [Financial Solution Platform](https://tryenvoyx.xom)
+- 💳 [Financial Solution Platform](https://tryenvoyx.com)
 - 👥 Social Media Agency
 
 ## 🌱 Current Learning Paths

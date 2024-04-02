@@ -2,12 +2,12 @@
 
 I'm a Software/Data Engineer with a passion for building digital experiences.
 
-## 🔭 Current Projects I am working on:
+## 🔭 Current Projects I am working on
 - 🧑🏾‍💻 [Web3 Platform](https://linktr.ee/metateds)
 - 💳 [Financial Solution Platform](https://tryenvoyx.xom)
 - 👥 Social Media Agency
 
-## 🌱 Current Learning Paths ...
+## 🌱 Current Learning Paths
 - GCP Developer/Engineering
 - Azure Developer/Engineering 
 - Salesforce
@@ -17,17 +17,20 @@ I'm a Software/Data Engineer with a passion for building digital experiences.
 
 **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Mantine UI` `Chakra UI`
 
-**Backend Development:** `MongoDB` `Express` `Firebase` `Nest.js` `GraphQL` 
+**Backend Development:** `MongoDB` `Express` `Firebase` `Nest.js` `GraphQL` `Linux Server` `Docker` `Virtual Machine (VM)` `Python` `Java`
 
-**Version Control:** `Git` `GitLab` `Bitbucket`
+**ETL Developmemt:** `Apache Airflow` `AbInitio` `DataStage` `Informatica` `AWS Glue` `Azure Data Factory` `Talend`
 
 **Cloud Services:** `AWS` `Google Cloud Platform (GCP)` `Azure` `Snowflake` `Databricks`
+
+**Big Data Technologies:** `Hadoop` `Apache Spark` `Apache Kafka` `ODM` `Tableau`
+
+**Version Control:** `Git` `GitLab` `Bitbucket`
 
 **Testing:** `Cypress` `Cucumber` `Jest` `Postman`
 
 **Productivity:** `Notion` `Scrum` `Jira` `Rally`
 
-## ⚡ Fun fact:
 
 ## 📫 How to reach me:
 

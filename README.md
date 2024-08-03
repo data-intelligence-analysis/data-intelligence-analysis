@@ -5,7 +5,7 @@ I'm a Software/Data Engineer with a passion for building digital experiences.
 ## 🔭 Current Projects I am working on
 - 🧑🏾‍💻 [Web3 Platform](https://linktr.ee/metateds)
 - 💳 [Financial Solution Platform](https://tryenvoyx.vercel.app)
-- 👥 Social Media Agency
+- 👥 AI Microservices & Infrastructure
 
 ## 🌱 Current Learning Paths
 - Machine Learning Pipelines

@@ -7,7 +7,7 @@ I'm a Software/Data Engineer with a passion for building digital experiences.
 - 💳 [Financial Solution Platform](https://tryenvoyx.vercel.app)
 - 👥 AI Microservices
 - 🌱 Management Consulting Platform
-- 💫 Ecommerce Store
+- 💫 AI/ML LLM Platform
 
 ## 🌱 Current Learning Paths
 - Machine Learning Pipelines

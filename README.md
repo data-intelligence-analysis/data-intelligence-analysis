@@ -3,12 +3,14 @@
 I'm a Software/Data Engineer with a passion for building digital experiences.
 
 ## 🔭 Current Projects I am working on
+- 🌎 [Official Website](https://dosafo.vercel.app)
 - 🧑🏾‍💻 [Web3 Platform](https://linktr.ee/metateds)
-- 💳 [Financial Solution Platform](https://tryenvoyx.vercel.app)
+- 💳 [Fintech Platform](https://tryenvoyx.vercel.app)
 - 👥 AI Microservices
 - 🌱 Management Consulting Platform
 - 📜 Productivity, Storage, and Sharing Utility
-- ⚕️ Telehealth
+- 🩻 Telehealth
+- 💸 Ecommerce
 - 💫 AI/ML LLM Platform
 
 ## 🌱 Current Learning Paths

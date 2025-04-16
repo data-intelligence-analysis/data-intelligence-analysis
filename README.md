@@ -2,7 +2,7 @@
 
 I'm a Software/Data Engineer with a passion for building digital experiences.
 
-## 🔭 Current Projects I am working on
+## 🔭 Projects Worked On
 - 🧑🏾‍💻 [Web3 Platform](https://linktr.ee/metateds)
 - 💳 [Fintech Platform](https://tryenvoyx.com)
 - 💸 Ecommerce

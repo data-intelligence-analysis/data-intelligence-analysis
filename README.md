@@ -14,9 +14,8 @@ I'm a Software/Data Engineer with a passion for building digital experiences.
 - 💫 AI/ML LLM Platform
 
 ## 🌱 Current Learning Paths
-- Machine Learning Pipelines
-- GCP Developer/Engineering Certifications
-- Azure Developer/Engineering Certifications
+- NVIDIA Certifications and Trainings in AI/ML
+- GCP Analytics/Engineering Professional Certifications
 - Salesforce
 
 

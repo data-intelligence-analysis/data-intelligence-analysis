@@ -7,9 +7,8 @@ I'm a Software/Data Engineer with a passion for building digital experiences.
 - 💳 [Fintech Platform](https://tryenvoyx.com)
 - 💸 Ecommerce
 - 📄 Real Estate Portfolio
-- 👥 AI Services
 - 🌱 Management Consulting Platform
-- 📜 Productivity, Storage, and Sharing Utility
+- 📜 Automation & Workflow Utility
 - 🩻 Telehealth
 - 💫 AI/ML LLM Platform
 

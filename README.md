@@ -5,10 +5,8 @@ I'm a Software/Data Engineer with a passion for building digital experiences.
 ## 🔭 Projects Worked On
 - 🧑🏾‍💻 [Web3 Platform](https://linktr.ee/metateds)
 - 💳 [Fintech Platform](https://tryenvoyx.com)
-- 💸 Ecommerce
-- 📄 Real Estate Portfolio
-- 🌱 Management Consulting Platform
-- 📜 Automation & Workflow Utility
+- 🌱 Professional Services
+- 📜 Automation & Workflows
 - 🩻 Telehealth
 - 💫 AI/ML LLM Platform
 

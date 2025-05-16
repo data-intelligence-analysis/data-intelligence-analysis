@@ -12,7 +12,7 @@ I'm a Software/Data Engineer with a passion for building digital experiences.
 
 ## 📜 Certifications
 - **Google**:
-- **IBM**:
+- **IBM**: `IBM Data Science Professional Certificate`
 - **HackerRank**:
 - **Atlassian**:
 - **Microsoft**:

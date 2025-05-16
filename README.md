@@ -2,19 +2,23 @@
 
 I'm a Software/Data Engineer with a passion for building digital experiences.
 
+## 📜 Certifications
+1. **Google**: 
+2. **IBM**:
+3. **HackerRank**:
+
 ## 🔭 Projects Worked On
 - 🧑🏾‍💻 [Web3 Platform](https://linktr.ee/metateds)
 - 💳 [Fintech Platform](https://tryenvoyx.com)
-- 🌱 Professional Services
-- 📜 Automation & Workflows
 - 🩻 Telehealth
+- 🌱 Professional Services
+- 📜 Automation
 - 💫 AI/ML LLM Platform
 
 ## 🌱 Current Learning Paths
 - NVIDIA Certifications and Trainings in AI/ML
 - GCP Analytics/Engineering Professional Certifications
 - Salesforce
-
 
 ## 📚 Tech Stack
 

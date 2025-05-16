@@ -7,13 +7,13 @@ I'm a Software/Data Engineer with a passion for building digital experiences.
 2. **IBM**:
 3. **HackerRank**:
 
-## 🔭 Projects Worked On
+## 🔭 Projects
 - 🧑🏾‍💻 [Web3 Platform](https://linktr.ee/metateds)
 - 💳 [Fintech Platform](https://tryenvoyx.com)
-- 🩻 Telehealth
-- 🌱 Professional Services
-- 📜 Automation
-- 💫 AI/ML LLM Platform
+- 🩻 Telehealth - In Progress
+- 🌱 Professional Services - In Progress
+- 📜 Automation - In Progress
+- 💫 AI/ML LLM Platform - In Progress
 
 ## 🌱 Current Learning Paths
 - NVIDIA Certifications and Trainings in AI/ML

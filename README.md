@@ -11,8 +11,8 @@ I'm a Software/Data Engineer with a passion for building digital experiences.
 - 💫 AI/ML LLM Platform (In Progress)
 
 ## 📜 Certifications
-- **Google**:
-- **IBM**: `IBM Data Science Professional Certificate` `Tools for Data Science`
+- **Google**: `Google Data Engineer Professional`, `Google Data Analytics` 
+- **IBM**: `IBM Data Science Professional Certificate`, `Network Security & Database Vulnerabilities`
 - **HackerRank**:
 - **Atlassian**:
 - **Microsoft**:

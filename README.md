@@ -7,6 +7,7 @@ I'm a Software/Data Engineer with a passion for building digital experiences.
 2. **IBM**:
 3. **HackerRank**:
 4. **Atlassian**:
+5. **Microsoft**:
 
 ## 🔭 Projects
 - 🧑🏾‍💻 [Web3 Platform](https://linktr.ee/metateds)

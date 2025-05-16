@@ -2,13 +2,6 @@
 
 I'm a Software/Data Engineer with a passion for building digital experiences.
 
-## 📜 Certifications
-1. **Google**: 
-2. **IBM**:
-3. **HackerRank**:
-4. **Atlassian**:
-5. **Microsoft**:
-
 ## 🔭 Projects
 - 🧑🏾‍💻 [Web3 Platform](https://linktr.ee/metateds)
 - 💳 [Fintech Platform](https://tryenvoyx.com)
@@ -16,6 +9,14 @@ I'm a Software/Data Engineer with a passion for building digital experiences.
 - 🌱 Professional Services (In Progress)
 - 📜 Automation (In Progress)
 - 💫 AI/ML LLM Platform (In Progress)
+
+## 📜 Certifications
+- **Google**:
+- **IBM**:
+- **HackerRank**:
+- **Atlassian**:
+- **Microsoft**:
+- **SAP**:
 
 ## 🌱 Current Learning Paths
 - NVIDIA Certifications and Trainings in AI/ML

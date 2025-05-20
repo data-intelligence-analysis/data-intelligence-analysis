@@ -21,6 +21,8 @@ I'm a Software/Data Engineer with a passion for building digital experiences.
 
 ## 🌱 Current Learning Paths
 - NVIDIA Certifications and Trainings in AI/ML
+- Deep Learning and Neural Networks
+- Cybersecurity
 - GCP Analytics/Engineering Professional & Google Career Certifications
 
 ## 📚 Tech Stack

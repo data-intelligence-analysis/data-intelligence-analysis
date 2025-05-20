@@ -11,8 +11,8 @@ I'm a Software/Data Engineer with a passion for building digital experiences.
 - 💫 AI/ML LLM Platform (In Progress)
 
 ## 📜 Certifications
-- **Google**: `Data Engineer Professional`, `Advanced Data Analytics` `IT Support`
-- **AWS**: `AWS Solutions Architect`
+- **Google**: `Data Analytics`,`Advanced Data Analytics` `IT Support`
+- **AWS**: `Certified Solutions Architect`
 - **IBM**: `Data Science Professional Certificate`, `Network Security & Database Vulnerabilities`
 - **HackerRank**: `SQL (Intermediate)`
 - **Microsoft**: `PowerBI and Power Platform`

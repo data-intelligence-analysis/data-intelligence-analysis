@@ -11,12 +11,13 @@ I'm a Software/Data Engineer with a passion for building digital experiences.
 - 💫 AI/ML LLM Platform (In Progress)
 
 ## 📜 Certifications
-- **Google**: `Google Data Engineer Professional`, `Google Data Analytics` 
-- **IBM**: `IBM Data Science Professional Certificate`, `Network Security & Database Vulnerabilities`
-- **HackerRank**:
-- **Atlassian**:
-- **Microsoft**:
-- **SAP**:
+- **Google**: `Data Engineer Professional`, `Advanced Data Analytics` `IT Support`
+- **AWS**: `AWS Solutions Architect`
+- **IBM**: `Data Science Professional Certificate`, `Network Security & Database Vulnerabilities`
+- **HackerRank**: `SQL (Intermediate)`
+- **Microsoft**: `PowerBI and Power Platform`
+- **SAP**: `SAP Business Suite`
+- **Miro**: `Technical Diagramming`, `Innovation Essentials`
 
 ## 🌱 Current Learning Paths
 - NVIDIA Certifications and Trainings in AI/ML

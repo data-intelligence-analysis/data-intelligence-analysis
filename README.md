@@ -4,11 +4,13 @@ I'm a Software/Data Engineer with a passion for building digital experiences.
 
 ## 🔭 Projects
 - 🧑🏾‍💻 [Web3 Platform](https://linktr.ee/metateds)
-- 💳 [Fintech Platform](https://tryenvoyx.com)
-- 🩻 Telehealth (In Progress)
+- 💳 Fintech Platform (In Progress)
+- 🩻 Telehealth + Fintech (In Progress)
 - 🌱 Professional Services (In Progress)
 - 📜 Automation (In Progress)
-- 💫 AI/ML LLM Platform (In Progress)
+- 🚀 Smart Business Dashboards (In Progress)
+- ⚡️ Design, Commercialization and Fulfillment (In Progress)
+- 💫 AI LLM + Assitants (In Progress)
 
 ## 📜 Certifications
 - **Google**: `Data Analytics`,`Advanced Data Analytics` `IT Support`

@@ -11,6 +11,7 @@ I'm a Software/Data Engineer with a passion for building digital experiences.
 - 🚀 Smart Business Dashboards (In Progress)
 - ⚡️ Design, Commercialization and Fulfillment (In Progress)
 - 💫 AI LLM + Assitants (In Progress)
+- 🏠 Real Estate Portfolio (In Progress)
 
 ## 📜 Certifications
 - **Google**: `Data Analytics`,`Advanced Data Analytics` `IT Support`

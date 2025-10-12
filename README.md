@@ -1,6 +1,6 @@
 ### Hi, I'm Dennis 👋🏿
 
-I'm a Software/Data Engineer with a passion for building digital experiences.
+I'm a Full-Stack Software Engineer with a passion for building digital experiences.
 
 ## 🔭 Projects
 - 🧑🏾‍💻 [Web3 Platform](https://linktr.ee/metateds)

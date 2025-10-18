@@ -11,7 +11,7 @@ I'm a Full-Stack Software Engineer with a passion for building digital experienc
 - 🚀 Smart Business Dashboards (In Progress)
 - ⚡️ Design, Commercialization and Fulfillment (In Progress)
 - 💫 AI LLM + Assitants (In Progress)
-- 🏠 Real Estate Portfolio (In Progress)
+- 🏠 Property Management (In Progress)
 
 ## 📜 Certifications
 - **Google**: `Data Analytics`,`Advanced Data Analytics` `IT Support`

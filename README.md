@@ -2,6 +2,10 @@
 
 I'm a Full-Stack Software Engineer with a passion for building digital experiences.
 
+- 🌱 I am currently learning AI/ML, Deep Learning and Neural Networks.
+- 🔭 I am currently working on the following [Projects](#Projects).
+- 📫 How to reach me: You can DM me on my [LinkedIn](https://www.linkedin.com/in/gribzdevo). 
+
 ## 🔭 Projects
 - 🧑🏾‍💻 [Web3 Platform](https://linktr.ee/metateds)
 - 💳 Fintech Platform (In Progress)
@@ -19,18 +23,15 @@ I'm a Full-Stack Software Engineer with a passion for building digital experienc
 - **Microsoft**: `PowerBI and Power Platform`
 - **SAP**: `SAP Business Suite`
 - **Miro**: `Technical Diagramming`, `Innovation Essentials`
+- **DeepLearning.AI: `Machine Learning Specialization`,`Supervised Machine Learning`,`Google Cloud LLM Ops`
+- **Stanford Univiersity: `Machine Learning Specialization`
 
-## 🌱 Current Learning Paths
-- NVIDIA Certifications and Trainings in AI/ML
-- Deep Learning and Neural Networks
-- Cybersecurity
-- GCP Analytics/Engineering Professional & Google Career Certifications
 
 ## 📚 Tech Stack
 
 **Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Mantine UI` `Chakra UI`
 
-**Backend Development:** `MongoDB` `Express` `Firebase` `Nest.js` `GraphQL` `Linux Server` `Docker` `Virtual Machine (VM)` `Python` `Java`
+**Backend Development:** `MongoDB` `Express` `Firebase` `Nest.js` `GraphQL` `Linux Server` `Docker` `Virtual Machine (VM)` `Python` `Java` `Rust`
 
 **ETL Developmemt:** `Apache Airflow` `AbInitio` `DataStage` `Informatica` `AWS Glue` `Azure Data Factory` `Talend`
 
@@ -43,11 +44,6 @@ I'm a Full-Stack Software Engineer with a passion for building digital experienc
 **Testing:** `Cypress` `Cucumber` `Jest` `Postman`
 
 **Productivity:** `Notion` `Scrum` `Jira` `Rally`
-
-
-## 📫 How to reach me:
-
-You can DM me on my [LinkedIn](https://www.linkedin.com/in/gribzdevo). 
 
 
 

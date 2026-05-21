@@ -16,7 +16,7 @@ I'm a Full-Stack Software Engineer with a passion for building digital experienc
 - 🏠 Property Management (In Progress)
 
 ## 📜 Certifications
-- **Google**: `Data Analytics`,`Advanced Data Analytics` `IT Support`
+- **Google**: `Advanced Data Analytics` `IT Support`
 - **AWS**: `Certified Solutions Architect`
 - **IBM**: `Data Science Professional Certificate`, `Network Security & Database Vulnerabilities`
 - **HackerRank**: `SQL (Intermediate)`

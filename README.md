@@ -23,8 +23,8 @@ I'm a Full-Stack Software Engineer with a passion for building digital experienc
 - **Microsoft**: `PowerBI and Power Platform`
 - **SAP**: `SAP Business Suite`
 - **Miro**: `Technical Diagramming`, `Innovation Essentials`
-- **DeepLearning.AI: `Machine Learning Specialization`,`Supervised Machine Learning`,`Google Cloud LLM Ops`
-- **Stanford Univiersity: `Machine Learning Specialization`
+- **DeepLearning.AI**: `Machine Learning Specialization`,`Supervised Machine Learning`,`Google Cloud LLM Ops`
+- **Stanford Univiersity**: `Machine Learning Specialization`
 
 
 ## 📚 Tech Stack

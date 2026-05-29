@@ -12,8 +12,7 @@ I'm a Full-Stack Software Engineer with a passion for building digital experienc
 - 🩻 Telehealth + Fintech (In Progress)
 - 🌱 Professional Services (In Progress)
 - 🚀 Real-Time Assistants/Agents (In Progress)
-- ⚡️ Design, Commercialization and Fulfillment (In Progress)
-- 🏠 Property Management (In Progress)
+- ⚡️ Commercial Branding Services (In Progress)
 
 ## 📜 Certifications
 - **Google**: `Advanced Data Analytics` `IT Support`

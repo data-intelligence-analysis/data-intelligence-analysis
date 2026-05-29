@@ -10,7 +10,7 @@ I'm a Full-Stack Software Engineer with a passion for building digital experienc
 - 🧑🏾‍💻 [Web3 Platform](https://linktr.ee/metateds)
 - 💳 Fintech Platform (In Progress)
 - 🩻 Telehealth + Fintech (In Progress)
-- 🌱 Professional Services (In Progress)
+- 🌱 [Professional Services](https://dosafo.vercel.app/landing)
 - 🚀 Real-Time Assistants/Agents (In Progress)
 - ⚡️ Commercial Branding Services (In Progress)
 

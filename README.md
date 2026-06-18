@@ -3,7 +3,7 @@
 I'm a Full-Stack Software Engineer with a passion for building digital experiences.
 
 - 🌱 I am currently learning AI/ML, Deep Learning and Neural Networks.
-- 🔭 I am currently working on the following [Projects](https://dosafo.vercel.app/).
+- 🔭 I am currently working on the following [Projects](https://dosafo.vercel.app/projects).
 - 📫 How to reach me: You can DM me on my [LinkedIn](https://www.linkedin.com/in/gribzdevo). 
 
 ## 🔭 Projects

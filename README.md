@@ -7,11 +7,7 @@ I'm a Full-Stack Software Engineer with a passion for building digital experienc
 - 📫 How to reach me: You can DM me on my [LinkedIn](https://www.linkedin.com/in/gribzdevo). 
 
 ## 🔭 Projects
-- 🧑🏾‍💻 [Web3 Platform](https://linktr.ee/metateds)
-- 🩻 Telehealth + Fintech (In Progress)
-- 🌱 [Professional Services](https://dosafo.vercel.app/landing)
-- ⚡️ Commercial Packaging Solutions (In Progress)
-- 🎓 [E-Commerce](https://maakowear.com/)
+- 🧑🏾‍💻 [Projects](https://dosafo.vercel.app/projects)
 
 ## 📜 Certifications
 - **Google**: `Advanced Data Analytics` `IT Support`
